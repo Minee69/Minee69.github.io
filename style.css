@@ -1,0 +1,149 @@
+.navbar {
+  overflow: hidden;
+  text-align: left;
+  margin: 20px;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+body {
+  background-image: url("folder/bg4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 20px;
+  padding: 0;
+  
+}
+
+.box1 {
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: cursive;
+  size-adjust: auto;
+}
+ .box1 h1 {
+
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100px;
+ }
+
+ .box1 h5 {
+
+  font-size: 20;
+  letter-spacing: 3px;
+  font-weight: 100;
+ }
+
+ .box1 p {
+
+  text-align: justify;
+
+ }
+
+p {
+  color: white;
+  background-color:#333;
+}
+
+footer {
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  background-color: #333;
+  margin: 20px;
+}
+h2 {
+  color: white;
+}
+
+h1 {
+
+  text-align: center;
+  color: white;
+}
+
+.container {
+  text-align: left;
+  padding: 10px;
+  color: white;
+}
+
+.main {
+  text-align: center;
+  padding: 100px;
+}
+
+.buttons {
+  text-align: center;
+}
+.box-container {
+  display: flex;
+  width: 100%;
+  height: auto;
+ justify-content: center;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #333;
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+ .years {
+  margin: 20px;
+  text-align: center;
+ }
+ .years h2 {
+  text-align: center;
+ }
+ .flexx {
+  margin: 10px;
+  padding: 20;
+  text-align: center;
+ }
+  .flexx-img {
+    height: 800px;
+    width: 800px;
+  }
+  .challenge-img {
+    height: 800px;
+    width: 800px;
+  }
+  .challenge {
+    margin: 10px;
+    padding: 20;
+    text-align: center;
+  }
+  .challenge h1 {
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100px;
+  }
+
